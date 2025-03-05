@@ -14,8 +14,8 @@
   - [osTicket](https://github.com/JosueCorralPro/osticket-setup)
   - [osTicket Configuration](https://github.com/JosueCorralPro/osTicket-Config)
   - [Active Directory Bulk User Creation](https://github.com/JosueCorralPro/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/josuecorralpro/PowerShell-Integrity-FIM)
-- <b>[Help Desk Setup](https://github.com/JosueCorralPro/osticket-setup)</b>
+  - [Azure and networkign Concepts)](https://github.com/josuecorralpro/PowerShell-Integrity-FIM)
+  
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
