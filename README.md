@@ -14,7 +14,8 @@
   - [osTicket](https://github.com/JosueCorralPro/osticket-setup)
   - [osTicket Configuration](https://github.com/JosueCorralPro/osTicket-Config)
   - [Active Directory Bulk User Creation](https://github.com/JosueCorralPro/AD_PS)
-  - [Azure and networkign Concepts)](https://github.com/josuecorralpro/PowerShell-Integrity-FIM)
+  - [Azure Networking Setup](https://github.com/JosueCorralPro)
+
   
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
