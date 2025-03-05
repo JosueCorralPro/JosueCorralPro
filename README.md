@@ -12,7 +12,7 @@
 
 -<b>Help Desk Setup</b>
   - [osTicket](https://github.com/JosueCorralPro/osticket-setup)
-  - [osTicket Configuration](https://github.com/JosueCorralPro/osticket-setup)
+  - [osTicket Configuration](https://github.com/JosueCorralPro/osTicket-Config)
   - [Active Directory Bulk User Creation](https://github.com/JosueCorralPro/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/josuecorralpro/PowerShell-Integrity-FIM)
 - <b>[Help Desk Setup](https://github.com/JosueCorralPro/osticket-setup)</b>
